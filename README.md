@@ -1,4 +1,4 @@
-# topk-gan
+# Top-k GAN
 
 Official PyTorch code for Top-k GAN (NeurIPS 2020) 
 
